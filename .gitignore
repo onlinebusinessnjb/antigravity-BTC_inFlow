@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.db
+inflows.db
+.DS_Store
+.env
+venv/
+.streamlit/
+*.json
+!dashboard_settings.json
+Dashboard_Native

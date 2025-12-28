@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+streamlit
+pandas
+plotly
+yfinance
+sqlalchemy
+pydantic
+ccxt
+streamlit-autorefresh

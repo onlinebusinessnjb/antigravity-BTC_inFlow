@@ -1,0 +1,1542 @@
+INFO:     Started server process [76415]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:62577 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62585 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62591 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62598 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62628 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62656 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62693 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62729 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62811 - "GET / HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=b5d31f963daf57a12766a79b1ad8297162aae64c75ae1a967ec16bfdc933de8d
+/Users/najibelberdaoui/AntiGravity/BTC_inFlow/webhook_server.py:75: DeprecationWarning: The default datetime adapter is deprecated as of Python 3.12; see the sqlite3 documentation for suggested replacement recipes
+  c.execute('''
+INFO:__main__:Saved Inflow: BTC (5628732.28669206 USD) -> Bybit
+INFO:     127.0.0.1:62853 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62919 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62946 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62956 - "GET / HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=7a6aefba73b73f2eb9c1a470ddfc6f1f01ab1eeb5b3cb7407d28ec3cb1d76170
+INFO:__main__: -> Processing Item 1/1: Tx=401b487403fa70902b90ea0d728211cced7276a0dcba7046b7de93312437838f
+INFO:__main__:Saved Inflow: BTC (3533267.84392764 USD) -> Coinbase
+INFO:__main__:Saved Inflow: BTC (7309041.6642768 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=24d04f2e91a047e8df0efa242f710b3d58573468515cb475f9a1e904d3c742b8
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (2271511.99984842 USD) -> Revolut
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=7a6aefba73b73f2eb9c1a470ddfc6f1f01ab1eeb5b3cb7407d28ec3cb1d76170
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (3533267.745567 USD) -> Coinbase
+INFO:__main__: -> Processing Item 1/1: Tx=0382d5f521951b5fb94d1cc166930e7a50bda26083bc71a49608ffaf2fa4188a
+INFO:__main__: -> Processing Item 1/1: Tx=24d04f2e91a047e8df0efa242f710b3d58573468515cb475f9a1e904d3c742b8
+INFO:__main__:Saved Inflow: BTC (2278383.7104 USD) -> Bitget Deposit
+INFO:__main__:Saved Inflow: BTC (5867147.57238036 USD) -> Block Inc. (Cash App)
+INFO:     127.0.0.1:63020 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63057 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63086 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63115 - "GET / HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=dbea8a2a88de569a647018072453628adfe8cb2dceb413c6f1d8b57a5cf22ce2
+INFO:__main__: -> Processing Item 1/1: Tx=29b27d8501ce502fec10ecea067a5f500158f1d214d89252f1ad9aa2434cabad
+INFO:__main__:Saved Inflow: BTC (6458218.64628255 USD) -> Kraken
+INFO:__main__:Saved Inflow: BTC (6111933.53651055 USD) -> Crypto.com
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=305318c437415fe7a035739f9305fc84bbfbe306d1eb677dff9975d503d051ff
+INFO:__main__:Saved Inflow: BTC (5096475.15227235 USD) -> Coinbase
+INFO:     127.0.0.1:63169 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63189 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63206 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63211 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63220 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63225 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63229 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63278 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63290 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63294 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63345 - "GET / HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=7301cdda76c5082f092b8be77c437b06e6526429ca38a179f03fead0bd92fe7d
+INFO:__main__:Saved Inflow: BTC (2991455.4847197 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=a1d475263f6ff5fc2faf8d38c75e8319ee166de785ddd64ec78e62264927b82d
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (3584031.90000938 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=aca11f2560b8c099e26ba3b2b2141ee0be2630fd7b6befc045123b98f4625806
+INFO:__main__: -> Processing Item 1/1: Tx=fab1e86e1d3d7ccd18b39b986ddb12e342d35537a25c8aafa129cd2647ee4457
+INFO:__main__: -> Processing Item 1/1: Tx=9e7b9a14b8ccfc3945e634519ec9dc2f257c6e4082338ab6f929fe8feb90ec8c
+INFO:__main__: -> Processing Item 1/1: Tx=99ea25b4b6ceeed9b72b594e420b54df903ff43e5fca97c556e35537415d6f59
+INFO:__main__: -> Processing Item 1/1: Tx=6a7427082f48f0def416bac21ceb34e14be6fad2f96ec94038456b594550ba8c
+INFO:__main__: -> Processing Item 1/1: Tx=68275ea5a68254c1a850674fe6c416e6ad866b6c51d1bce8722b7d75ddd5898c
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=29df81d3ba787d1bc03b03f76a7558713b8b817905b44c440e5d759e00f754e2
+INFO:__main__: -> Processing Item 1/1: Tx=8508063fce9f9c78949ad38bb28b0c756a3111925014a5688e2b0c8349a55fa6
+INFO:__main__:Saved Inflow: BTC (2465480.02654076 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2470555.63055912 USD) -> Bybit
+INFO:__main__: -> Processing Item 1/1: Tx=58f35f41fb10b3cbbadd1e796b4f5a375bf0302562111598c92edebe3a1a92bc
+INFO:__main__:Saved Inflow: BTC (2993926.03251888 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2473098.7953223 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2996447.57043806 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2989746.03391358 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2467150.88310088 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2990595.22073464 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2995572.009417 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=ee201e76bd6333019c4d0f9f7b7509fa60981267c172f03492105ae8fee7a43d
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (2462980.20337958 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=56c8cd67de6e3d86094facf8f66bb5175772ab64adedeed36f87efbcbfa0bbee
+INFO:__main__: -> Processing Item 1/1: Tx=f4d68fef345d64feaf78cf0ca13ca840421c5e5464c49dc17c43d7541a6109d6
+INFO:__main__: -> Processing Item 1/1: Tx=5f66e5e9d8d7648fb06beb0a91e0d83e564d5f8741aa309ead5b8af36dc67f8e
+INFO:__main__: -> Processing Item 1/1: Tx=01b1168a733d455d62a6151494048bb34ee5abfc18c5bf32e3951597f658dc30
+INFO:__main__: -> Processing Item 1/1: Tx=6cfe19ca2bd34cdf335ce5c0dd2b23581c8676644acae5686ed32c8df1e0b5d5
+INFO:__main__: -> Processing Item 1/1: Tx=f974849a75e550051238c838f3324f3690b37cbcfa26ebc1fef6af8316f4c0f6
+INFO:__main__: -> Processing Item 1/1: Tx=aa34d14c28141bdf68708975cb79eb1b4f1bd0056930a7d4187c52e13e8711a2
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=7cb78f8b0ce19655e56371759943fdd520ea1234ba69776bd539c2de736b0327
+INFO:__main__:Saved Inflow: BTC (3586497.87628056 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (3536968.5186009 USD) -> Coinbase
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (2993122.03349382 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (2462173.12736452 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (2988949.41966452 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (6474903.68411414 USD) -> CoinSpot
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (2992318.64986676 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (2474757.95932042 USD) -> Bybit
+INFO:__main__: -> Processing Item 1/1: Tx=e5a5f445a356e1b70cbf57b07c6676e2d83f4c199f58ae3c46f368f4351abcb8
+INFO:__main__: -> Processing Item 1/1: Tx=729af1055518417b74d0742ef2c4497727f3964cc177c2999f4a66467c393d3e
+INFO:__main__:Saved Inflow: BTC (3583225.79104832 USD) -> Bybit
+INFO:__main__: -> Processing Item 1/1: Tx=d77ffe9d5907453a229ff2190e913be5d8cb9ec93e2c810b1472243fd37e0df4
+INFO:__main__: -> Processing Item 1/1: Tx=22cdad3f8b18c5f1276a870d82e0b64fd72fbf8f2536f2f6ccc03c3f34457156
+INFO:__main__: -> Processing Item 1/1: Tx=754c7c8325179a97c27d6166ba07196afa4de0f9641ffd052bbb10e20df50563
+INFO:__main__: -> Processing Item 1/1: Tx=f6a7df5be0a869895734b55c56d7dfce7d8ed49c2b87ad06d878c40cc6b981c2
+INFO:__main__: -> Processing Item 1/1: Tx=5f66e5e9d8d7648fb06beb0a91e0d83e564d5f8741aa309ead5b8af36dc67f8e
+INFO:__main__: -> Processing Item 1/1: Tx=bc2ce8bcc0016bd7531330065dd1bfeb2b18ab51c351793ef14ce1c18d811b66
+INFO:__main__: -> Processing Item 1/1: Tx=0d2f8a74b0c3aa36124f482a83bb3dae281beebbbf6cec4da4920121a8e62ffc
+INFO:__main__: -> Processing Item 1/1: Tx=ebea0057e9b4103258a7177dfe75149c07794fda02e445d82c941caec5c905b7
+INFO:__main__:Saved Inflow: BTC (3581579.9899782 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2472259.27904124 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3584863.76777244 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2468838.619149 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2466346.26867782 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3536968.71552826 USD) -> Coinbase
+INFO:__main__:Saved Inflow: BTC (3582389.52758526 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2994731.26233994 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2469702.13595206 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=d48bbb241eb354e92e7a252198ae5330fc039f2f4205a421ce359a5b1ec4fa18
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (2463828.59897464 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=106285e6fb6d4d918ba6d01c664419a53826264710bb8a2ccfa48c463bf414f2
+INFO:__main__: -> Processing Item 1/1: Tx=128813e11f35e80e95e71a6f2fce095d360527bbdd922b4caf6c038987262ee7
+INFO:__main__: -> Processing Item 1/1: Tx=024fd56e5581fa472fef8b439ddc771f409027c51ec14e3d6bb3e392df3c5947
+INFO:__main__: -> Processing Item 1/1: Tx=012c2e3faef9348379d193d870d0ff3c1839268079c3c82838d9cbad740b3a1b
+INFO:__main__: -> Processing Item 1/1: Tx=ed459937fbf195ab8fcb0a9f7b4e204879c103d8138033f6975a8481782a5f09
+INFO:__main__: -> Processing Item 1/1: Tx=502b20f6c35be221378be601c35dfa69c0d05f55524f8e1edb7f433d724f9d22
+INFO:__main__: -> Processing Item 1/1: Tx=45f4d960d236992b75d6d8ce53fc62ad1f59d4a1f194f880e46639df019ef1e0
+INFO:__main__:Saved Inflow: BTC (2471419.49901818 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (4463819.71629688 USD) -> Coinbase
+INFO:__main__:Saved Inflow: BTC (3585691.1519215 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2467995.05882394 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2464623.4549437 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2473932.15762336 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2988152.54167346 USD) -> Bybit
+INFO:     127.0.0.1:63457 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63461 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63466 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63473 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63484 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63489 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63497 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63501 - "GET / HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=c21dd24a6caab3ddac7122d40dad980ec24a04cf7010179ba652b80309f859e5
+INFO:__main__:Saved Inflow: BTC (2984875.44534322 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=f7e0ca2f015c9d1953f535684c1e21e1de7a31cdbd7036d4639fea3ecc907959
+INFO:__main__: -> Processing Item 1/1: Tx=fa614b0bf044d422b1f140698f9a4c11523d8a5b63e73d028cc64560dcf6fc23
+INFO:__main__: -> Processing Item 1/1: Tx=f81ef75f27b8efff374fd4ffa19801f0961bbb67fd7f1b9c96081fa0204b0f25
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=4e9a1eafb5072d78ecee6b795a35c16fda08c67d4d5c4b2f9378457750109a8d
+INFO:__main__: -> Processing Item 1/1: Tx=f12edc44d3f9a05bdd15cbc4df16d13c5beaa6312aa8bc6b2411aea8c55997a2
+INFO:__main__: -> Processing Item 1/1: Tx=e940c9adf590ddcc1aaae410ea255bc9adac840d68f3a4bd6f94b8f173e5102c
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (3573380.2599896 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (4084746.92131324 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (2459745.48159734 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (2987330.5202784 USD) -> Bybit
+INFO:__main__: -> Processing Item 1/1: Tx=430ac1a0e261400e78b46901e30d49df2ebee8e5712b58aa5c2fb80f3c331c32
+INFO:__main__: -> Processing Item 1/1: Tx=56e9db7467e4ef6858f532dab695cfe1d80b8461475f60d76a32113b88200b8a
+INFO:__main__: -> Processing Item 1/1: Tx=f75a42079ca36fdf6defb1a52cfef6d43118b376d71c70431576527e4f40b42e
+INFO:__main__: -> Processing Item 1/1: Tx=b157531843790357b16e4b6cb76f65738f6ecd9f1f2a148b0dfb2ebe23270983
+INFO:__main__: -> Processing Item 1/1: Tx=b1ebf417e4b3c738d6ab6d36053194a90857fc68e82b566f0e6adb4a7f2f2e92
+INFO:__main__:Saved Inflow: BTC (3570080.30601936 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2458939.98803428 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3579090.98023902 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (4088042.04001348 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3579900.78158808 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3577441.7505229 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2981552.98538898 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=eb102887727c092cca6c350fe0e839019c93fb1ec3e126913f7ca6a87d1a0741
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=710aa2bf9818c27b8c9b4f4ec5ea9afe0f57b16fdc4faf6486a9df37274765a6
+INFO:__main__: -> Processing Item 1/1: Tx=5fb71b3200dafc3fd260b2dbfea7b171082310a3720f12cb148b52873f27e621
+INFO:__main__: -> Processing Item 1/1: Tx=7ff3f1a4ca51d9649393f665414117b106bd6dc77d206eb259372d4268f86c86
+INFO:__main__: -> Processing Item 1/1: Tx=12ddd9e13ebb8069a3927204cc728df01bab301fcc88181f9910aa1b2ed726f4
+INFO:__main__: -> Processing Item 1/1: Tx=a89900704ceec0f7fe04f0d7e75415553111c9d1a6f712061b3e59e13b676e37
+INFO:__main__: -> Processing Item 1/1: Tx=d3a7a60f22812dedc7fc1141029e58933321d8babf94d49f1c69cc3d7882bb46
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (3575853.09355278 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (2980711.09542992 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (2460565.2172284 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3572519.73226254 USD) -> Bybit
+INFO:__main__: -> Processing Item 1/1: Tx=aae7d100ec93798a270ae0de41b30aaed1c3eaf4862056a7a1706f73b7c679cb
+INFO:__main__: -> Processing Item 1/1: Tx=5adefb37ec77503f90942bb7af306d580e2e866606d2f39aa29174785b38a833
+INFO:__main__: -> Processing Item 1/1: Tx=a6f4efdae09f0c666164056b1e1e6bbb17c657052cbbd9875b7cc096e45cd3b9
+INFO:__main__:Saved Inflow: BTC (3570902.32741442 USD) -> Bybit
+INFO:__main__: -> Processing Item 1/1: Tx=89e618ee297852708d88dd53f372004476111ad52de5be0f493a621ff6e6039f
+INFO:__main__: -> Processing Item 1/1: Tx=9eadc59879fef9ccf4b28156db358b3a6f250515281d42322e39b31851c3b09b
+INFO:__main__:Saved Inflow: BTC (5205539.19691614 USD) -> Luno
+INFO:__main__:Saved Inflow: BTC (2985693.24686628 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2984077.07281416 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2983259.1833771 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (4086355.44684736 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (4087165.42402442 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3575040.56686972 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=8edc023b979b1e0b33f517a321b5f12aeb35b126b19eeb2a6b23359efee5b2d2
+INFO:__main__: -> Processing Item 1/1: Tx=a489f58d33127791f0359c811aa67ce5458d9534062c5f18978b4103a6ae5094
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=e6648250e0034a8ca244919b51627c630e0c3544a0057c1984c9f5e0d7962952
+INFO:__main__: -> Processing Item 1/1: Tx=8121d5d5ce8b97ab2a5583d6c9d3bb4302f6a676fe5e51739788b1cb404626f5
+INFO:__main__: -> Processing Item 1/1: Tx=a857e688ee0a4e2720400941eba1ae2f4f4591e94f14c55cdc016318f488b7ec
+INFO:__main__: -> Processing Item 1/1: Tx=981e04fd17a32b0cb23869f724b62b6333e4fff37b90586e079d320fc0dbfcec
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (3576646.27915584 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (4085554.9643823 USD) -> Bybit
+INFO:__main__: -> Processing Item 1/1: Tx=7374b85b22bd41e01d4456700ab4fac3f8b618c42d559cd54cef7c40260d6d4f
+INFO:__main__: -> Processing Item 1/1: Tx=8eee9cd842c4c87d8598db4ae4c68acb627203ed20c6cd2955eda59f096a3540
+INFO:__main__: -> Processing Item 1/1: Tx=9279bccaa781501b74a3ba26307c9c72ab9f13985d59332f17dc6552ac89148d
+INFO:__main__:Saved Inflow: BTC (3574244.74384666 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2986493.64141734 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2461376.86477146 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2982427.57935604 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3571713.79912948 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3580705.65975314 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3578270.71712396 USD) -> Bybit
+INFO:     127.0.0.1:63612 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63624 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63634 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63641 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63645 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63652 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63704 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63708 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63717 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63776 - "GET / HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=5d1e407cc54b0630925a393e48b09756cccb401a32552920a10185328cb43d6c
+INFO:__main__:Saved Inflow: BTC (1758147.4310673 USD) -> WhiteBIT
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=a202a29f556827ff4ce95c21e8d431171841f71370b67335276e4c0ca1c2ead1
+INFO:__main__: -> Processing Item 1/1: Tx=5d1e407cc54b0630925a393e48b09756cccb401a32552920a10185328cb43d6c
+INFO:__main__:Saved Inflow: BTC (1933959.2113023 USD) -> WhiteBIT
+INFO:__main__:Saved Inflow: BTC (3536645.27518848 USD) -> Coinbase
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=794eb0899e7db9ac4de3a13d6b55eb415e3881ed9a7506659c4ec96647ef5f5e
+INFO:__main__: -> Processing Item 1/1: Tx=a202a29f556827ff4ce95c21e8d431171841f71370b67335276e4c0ca1c2ead1
+INFO:__main__:Saved Inflow: BTC (7617945.62864244 USD) -> Coinbase
+INFO:__main__:Saved Inflow: BTC (3536646.27380064 USD) -> Coinbase
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=b7957ced0b1c3a5b815d5271b5d7cec50915cffa83b634f847d38089aa3e7936
+INFO:__main__:Saved Inflow: BTC (7457561.65819938 USD) -> B2C2 Group
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=8e0833930e2b4aceffcac1cf637a4ecf24de3466e07b4969015e54daf079680c
+INFO:__main__:Saved Inflow: BTC (5313276.89866428 USD) -> Binance Deposit
+INFO:     127.0.0.1:63805 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63817 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63827 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63869 - "GET / HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=d9db070b7b40b330defc9d88d1e20930c294593ed20dd253866cf87a04bcaab8
+INFO:__main__:Saved Inflow: BTC (5087914.60715421 USD) -> Block Inc. (Cash App)
+INFO:     127.0.0.1:63907 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63994 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64076 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64101 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64125 - "GET / HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=71a5d2f6a5d0e8c675d4c297c77b8cc48a976001494417aac21799ca4bd3c034
+INFO:__main__:Saved Inflow: BTC (3570321.66723995 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC-inFlow-5-10
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=2b01a69c97e791be54ae37946ec768616a490d1f0b05d3b0439c83461449a188
+INFO:__main__: -> Processing Item 1/1: Tx=5c556244dccdbb3361fe60c298c707f9b172cf0d8a1f26b11797531bddbc4c6e
+INFO:__main__: -> Processing Item 1/1: Tx=4957ef81d70b2c080d5c4c8f7ba8d62380cf0910bee8af04dbea683a5f624fb3
+INFO:__main__: -> Processing Item 1/1: Tx=5a63dc1cef50a80da381e385e5edcc2a53170a015645eab4cf4aad89a2354b0f
+INFO:__main__: -> Processing Item 1/1: Tx=d8ce00a0dcddceeca8bb8525bdb3869d504ca6f7ccdd4775927c4049576fafd5
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (2449571.80312614 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3568700.07213517 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (2447903.77517336 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (2980804.25256159 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (7305087.65590828 USD) -> Binance
+INFO:__main__: -> Processing Item 1/1: Tx=494364d59f2cbbed871a252d5ef794c5aa6350cdc83e281d143ee3bf2a0266fb
+INFO:__main__: -> Processing Item 1/1: Tx=de7ed76245488d46a2d8d611729ecdcf9e171e16f59d9c47a035bedff6889d8a
+INFO:__main__: -> Processing Item 1/1: Tx=79583baf29fd75a20c557f843282a1fbf55a9cb4816223c9e02957a0239a5ccb
+INFO:__main__: -> Processing Item 1/1: Tx=de7ed76245488d46a2d8d611729ecdcf9e171e16f59d9c47a035bedff6889d8a
+INFO:__main__: -> Processing Item 1/1: Tx=785d9ca4b49628e457e0d8cf6a47a2fe3e7097883e1fdf2169c86b71292b4373
+INFO:__main__: -> Processing Item 1/1: Tx=454dac36a84bcc99e53657b1b36541d92ef5dbcb55de88a3317006426a5a6290
+INFO:__main__:Saved Inflow: BTC (4408129.41661113 USD) -> Binance Deposit
+INFO:__main__:Saved Inflow: BTC (2447053.36020047 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3538052.41378267 USD) -> Coinbase
+INFO:__main__:Saved Inflow: BTC (2455486.01389637 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3538053.01178147 USD) -> Coinbase
+INFO:__main__:Saved Inflow: BTC (2454633.84010348 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC-inFlow-5-10
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_outFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=5df48c5be63e6f7a95b790c9b914f8da8003ac5a30f6682c8cfbda6bf07fd0b4
+INFO:__main__: -> Processing Item 1/1: Tx=5387c81ec63faf5da013eec5054b7356251e010da0e96e29cf87b1dc0eb4f961
+INFO:__main__: -> Processing Item 1/1: Tx=df16e5790f467b6d2c227676716dd1db817bc0411749741cde60d52564527219
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=7a5d291218540af5cfebdd82760cf883a8a53061427844a30f6c17506bb58520
+INFO:__main__: -> Processing Item 1/1: Tx=4d286b1190d2bd995994fdba632867fcbbbf97e195ad0853212f07e338c44ce9
+INFO:__main__: -> Processing Item 1/1: Tx=7ee1b396239fab56fc0fe5e36dbe92236840ec4ff6bb077fc4310e6dc2f1d33d
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (3567904.00470028 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (6331749.36177 USD) -> Binance
+INFO:__main__:Saved Inflow: BTC (2974862.60419936 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2458828.57743593 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=b98e0be24e9529deb248ba8fe9351b32d56ebe6c2ba2b20fe7535515a4cc56fa
+INFO:__main__: -> Processing Item 1/1: Tx=00cad9ae349da5d6799bbdaf403c1feafb34e3496e02f40be33e04b7bd046320
+INFO:__main__:Saved Inflow: BTC (2975688.30775125 USD) -> Bybit
+INFO:__main__: -> Processing Item 1/1: Tx=36ddc4deb33f31c83208536884d2051e58f81386c7ddc2a2674b13eef3ced33e
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (3781457.72354 USD) -> B2C2 Group
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (3569515.83835406 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (2977415.43205603 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_outFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=7ee1b396239fab56fc0fe5e36dbe92236840ec4ff6bb077fc4310e6dc2f1d33d
+INFO:__main__: -> Processing Item 1/1: Tx=3375a67440c822cbbfb9aba74aa03ccc367730d84736645215ac7941308bb026
+INFO:__main__: -> Processing Item 1/1: Tx=749b9f8bf17696d8be090c6de2aa491774dc9ab327a5e9cbee7770039f2ac753
+INFO:__main__:Saved Inflow: BTC (8405736.99515179 USD) -> Binance
+INFO:__main__: -> Processing Item 1/1: Tx=b57d6967f8a8d04733976922d4c02b2b7a6257d64571e6fcda69ae20016eea72
+INFO:__main__: -> Processing Item 1/1: Tx=4044cd9ea60757d34bdce1979cdfd9a8e7947abd4ea5477be56c67ce083c89db
+INFO:__main__: -> Processing Item 1/1: Tx=a4330e21e0dcf2e73bde6759e02c1f9142ebcba799d8f3ef1ccc7c1af92b672a
+INFO:__main__: -> Processing Item 1/1: Tx=25166e09d8547d353dde03f93d20f9e2595ff4db0e1c2d01b342c6a6bbe59f74
+INFO:__main__: -> Processing Item 1/1: Tx=d8570a056375c12f89bfb8dcac9342740b01ec47bcdb1181e7964bfed6d23a89
+INFO:__main__: -> Processing Item 1/1: Tx=521b4afb6c5a1b6ccb1ed8cbd1d5fadcb0733610ffced787bdaab306b3130aca
+INFO:__main__: -> Processing Item 1/1: Tx=993e3afb14dbc24634733edf4a932d5456debf9cad77ef2e58f8a9dc0921bcb2
+INFO:__main__: -> Processing Item 1/1: Tx=b98e0be24e9529deb248ba8fe9351b32d56ebe6c2ba2b20fe7535515a4cc56fa
+INFO:__main__: -> Processing Item 1/1: Tx=1b78ef1012b315506d10f6019e4ba15d99cbe6ee38d17fcc95d82c53d8856999
+INFO:__main__:Saved Inflow: BTC (2458028.81647904 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2456360.26088026 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2972427.88110569 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3781473.4210085 USD) -> B2C2 Group
+INFO:__main__:Saved Inflow: BTC (2973236.17233958 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2457211.55526315 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2446205.67139858 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (8405740.21203357 USD) -> Binance
+INFO:__main__:Saved Inflow: BTC (4942775.00663569 USD) -> Block Inc. (Cash App)
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_outFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC-inFlow-5-10
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (6106087.66046846 USD) -> Bybit
+INFO:__main__: -> Processing Item 1/1: Tx=ed2f294bc7b844b2d335b4580e98a52ca0b691082690343b08ff79f5cf2b3ea0
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=f92927614508e6d66218f3067d29b2af77d0ed1c71d4883a72785f9276b4f158
+INFO:__main__: -> Processing Item 1/1: Tx=1c9b8503d9a789b1c078e053d92ebbf4872be02dc63f9a7e09516a8c98a3de15
+INFO:__main__: -> Processing Item 1/1: Tx=29d198dad547bc5ad0ac3012ef4788b6dc6d21837a7168004d0894b79a576cd0
+INFO:__main__: -> Processing Item 1/1: Tx=df16e5790f467b6d2c227676716dd1db817bc0411749741cde60d52564527219
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (2448728.24755125 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (3565438.32637461 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3538053.01178147 USD) -> Unknown Destination
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (6331748.50346584 USD) -> Binance
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (2974066.27294147 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (2451242.73313192 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2452112.31924281 USD) -> Bybit
+INFO:__main__: -> Processing Item 1/1: Tx=ef39535ffe7d4233d618fbf651d43d5494a92c9eac843b4c9bdd7a1adee17763
+INFO:__main__: -> Processing Item 1/1: Tx=b888cba1b56a862c5402891a4ac3b4d2201fc7f6dee67c6c6c7919bab30f41e3
+INFO:__main__: -> Processing Item 1/1: Tx=57b905c6bbe4197ac3e507dce1b8641a37bd2f5693c934dd70b42f7b668a1aac
+INFO:__main__: -> Processing Item 1/1: Tx=0f527826617e045a8a38aacb0e8e95a3f8c1be742e300739401056fb630f47eb
+INFO:__main__: -> Processing Item 1/1: Tx=c8eba67b2a8df641265f2a3019810ee623fa5cf5f10d94a76b36e1ebb4034a7c
+INFO:__main__: -> Processing Item 1/1: Tx=1cfc82d855ed56398092902be26ac6dfb19057bf687475c72794e9b0b49065fa
+INFO:__main__: -> Processing Item 1/1: Tx=8fdf21eed78769aae08bc462382f3b6adf1b525f7419ad1625557ecea07842cd
+INFO:__main__: -> Processing Item 1/1: Tx=b5dd85cd0d230fc92e6838cc056c4bbff3c620a6d73ee66ce7762aa8d38a7ff1
+INFO:__main__: -> Processing Item 1/1: Tx=f52ffd06511deeef5602c76febed808688b0767af090ae6b6f2a066f525e4665
+INFO:__main__: -> Processing Item 1/1: Tx=d8ce00a0dcddceeca8bb8525bdb3869d504ca6f7ccdd4775927c4049576fafd5
+INFO:__main__:Saved Inflow: BTC (3567111.98255139 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2979975.5590157 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2978250.54529492 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2450444.90687703 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2452919.3793027 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2976540.74536714 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3566311.3421845 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2453764.34193359 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2638227.50863147 USD) -> Binance
+INFO:__main__:Saved Inflow: BTC (2979121.18669781 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=f0e9e4790df01f012d0cc806ad168ef470d4a2ef159d00bee4f820d87aed68b0
+INFO:__main__:Saved Inflow: BTC (3536925.52686998 USD) -> Coinbase
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_outFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=a2fd4fea205e482e63c68edd4e5d4523913ff57b74202ba160d8b86bb3ce8324
+INFO:__main__: -> Processing Item 1/1: Tx=f0e9e4790df01f012d0cc806ad168ef470d4a2ef159d00bee4f820d87aed68b0
+INFO:__main__:Saved Inflow: BTC (3536925.52686998 USD) -> Unknown Destination
+INFO:__main__:Saved Inflow: BTC (3536924.73741124 USD) -> Coinbase
+INFO:     127.0.0.1:64352 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64404 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64534 - "GET / HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=bfaedc16f8b1102b66c562b95eda8e29c88f01a91b423bda5fb23253a2b63101
+INFO:__main__:Saved Inflow: BTC (3551526.8836429 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=a3ba532f297aefe8a3c89fe9de656a882ee7f71e944a41ef721523b28c144005
+INFO:__main__: -> Processing Item 1/1: Tx=ce1565e5f347b27e5649e24ad15208d59224c23bed31483f2aa9c46f40e95b54
+INFO:__main__: -> Processing Item 1/1: Tx=2a260e52a1699985577703e13068d8dc3988c6c2823638aaa26f46a6e9e381ba
+INFO:__main__: -> Processing Item 1/1: Tx=97d4826a30fb46f57043317473ee265575169181e0e28f90f25faa6c66606cf9
+INFO:__main__: -> Processing Item 1/1: Tx=160909817c5e25df86f25ae7f67ef81c63dab2c09b7f3857be792b06f0d23599
+INFO:__main__:Saved Inflow: BTC (4164915.82358642 USD) -> Binance
+INFO:__main__:Saved Inflow: BTC (2967279.45602598 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (4082592.55916782 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2968079.33199892 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (1230404.0 USD) -> Poloniex
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=4c8c25cbd02aac9d14dfdf3ef9deb73aeec6d3bcff6a098b69ba07a92c34b6e3
+INFO:__main__: -> Processing Item 1/1: Tx=a3ba532f297aefe8a3c89fe9de656a882ee7f71e944a41ef721523b28c144005
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (1528336.37726822 USD) -> Binance
+INFO:__main__: -> Processing Item 1/1: Tx=4750a06a9a96fb9e01bc4106f8046df6c1db3c691341b977cab5cbd9d0fd66a3
+INFO:__main__: -> Processing Item 1/1: Tx=1f69cbe6bb2f8c0139fee3834f19af9842d9a7946148a95d2fa5f046cf90e757
+INFO:__main__: -> Processing Item 1/1: Tx=7d9ff3ff685e080080ef0780b562aabf0762a75f09e0e2fb07f66b8582b35882
+INFO:__main__:Saved Inflow: BTC (3553976.43080972 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2966422.54203904 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (4079242.94598806 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3558094.72043242 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=801bed9629e5b5fde8e5c3b9460928c1a27744dcb4b00e270f053cca2b39b03a
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=204a58bab4fb6a2fb445d33ccc1c792a10b786b9db31ade9e6beca29445038bb
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (4080106.627197 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (1942266.43101908 USD) -> Poloniex
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=e633525437a641148b2e28547ba410ec18cc34f2d5f520c6f30838f898199ced
+INFO:__main__: -> Processing Item 1/1: Tx=5e0e21209af9793add3c4a0197d546b399786c97e2fcef17a7ef603c872b33c6
+INFO:__main__: -> Processing Item 1/1: Tx=37797c5c77bf5c61bef03311e61eb812d76d2f701108357f2e420c3b3f4e3282
+INFO:__main__: -> Processing Item 1/1: Tx=44d1236bad8f788aa8f14427bba21c4d40c48ddbfac5666e47a1ed8826c9c6c2
+INFO:__main__: -> Processing Item 1/1: Tx=f6447964496961e7374d8a7adb23b7c18aca23b33e4343f2c5958fdcf48a156b
+INFO:__main__:Saved Inflow: BTC (3555619.4226676 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (4360024.2666508 USD) -> Binance
+INFO:__main__:Saved Inflow: BTC (3556432.65731254 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3560660.62866324 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3558919.64391536 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=00ff0eadb40d906994fec04187d4b9cc513e7ddae73fbae013c7df037ed7819e
+INFO:__main__: -> Processing Item 1/1: Tx=366e61ccb3a6e490e94acb432be30148fa7646ef2c701de2a58580339406337b
+INFO:__main__: -> Processing Item 1/1: Tx=e5d5ba7d3dd70adb6fef9036bb15df6d22577fc4c0ae433ea091134a7764ca28
+INFO:__main__: -> Processing Item 1/1: Tx=31456a09b7523c0ebbad015d5c5578948d01aca69c9bcaac622b1b1d3934c136
+INFO:__main__: -> Processing Item 1/1: Tx=89b53f3a2d09a1145550569ec76a4b726effbb38d334ab76baf217eec1b9acf0
+INFO:__main__: -> Processing Item 1/1: Tx=97d4826a30fb46f57043317473ee265575169181e0e28f90f25faa6c66606cf9
+INFO:__main__:Saved Inflow: BTC (2963924.74545822 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2964721.19387716 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2443851.37095574 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2968898.89443586 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (1054632.0 USD) -> Poloniex
+INFO:__main__:Saved Inflow: BTC (2442973.0127848 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=fce2bb49967e87485eeccdc13e41304b166af6dc60520ccd243cf9347c2de7f9
+INFO:__main__: -> Processing Item 1/1: Tx=d0365fddf8831878cef95f413b9a3aafbb2e8610de247a452f191f60f2d63f72
+INFO:__main__: -> Processing Item 1/1: Tx=f18f52b21440e4c58beb8d951d956320bc9528bb4b1c6c98afbb31c9fd607a57
+INFO:__main__: -> Processing Item 1/1: Tx=70c4544f938a60f79b02c3dc6776927ea12c3f410ea78f1f9ef86f373280de49
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (2965560.5306641 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3562395.90082112 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (3553144.03701678 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2969747.6350248 USD) -> Bybit
+INFO:__main__: -> Processing Item 1/1: Tx=21dca8408ede3b84b7b04178595d50f19c61fb23a74390b8b7b135e90ded8246
+INFO:__main__: -> Processing Item 1/1: Tx=fdc4f4116d227839273203b31280e607fc35ed34b22019a6f07a20a8ab209929
+INFO:__main__: -> Processing Item 1/1: Tx=5a5b2752dffe27b8e41e20d0c01089c9878ff93e4c22826a7ed0d6a27f4a6167
+INFO:__main__: -> Processing Item 1/1: Tx=f652c1b113a32086692942344963a9bd4e8ef7b47920433fe3b782d6ede0fc6e
+INFO:__main__:Saved Inflow: BTC (3554771.03362266 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2442094.65461386 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3552318.23467384 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2441247.67174492 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=a3ba532f297aefe8a3c89fe9de656a882ee7f71e944a41ef721523b28c144005
+INFO:__main__: -> Processing Item 1/1: Tx=9a40cf0dc5e5cac4484cece2695adebd0e7dc3e232595eadfaa2ed3f58aba608
+INFO:__main__: -> Processing Item 1/1: Tx=97d4826a30fb46f57043317473ee265575169181e0e28f90f25faa6c66606cf9
+INFO:__main__: -> Processing Item 1/1: Tx=b68b8b57380eca942b596eef5c41af5e3cf055ad6710dd9ebb7cfcd4d20ced66
+INFO:__main__: -> Processing Item 1/1: Tx=c70e57ed279aa81798d154ca7495f0d55957bbb6adb5df9e404e6e168c71de10
+INFO:__main__: -> Processing Item 1/1: Tx=97d4a578c11f7286c7adddd8120d94b5b682c28fd6398dc04c51935acc9f6cc1
+INFO:__main__: -> Processing Item 1/1: Tx=8571dbf5373c5af18062a0bd7eb7df7174c51d69b4707e8b60d19e3e79994af8
+INFO:__main__: -> Processing Item 1/1: Tx=2b0dbfd773ecef4e0783f6c8cc0c73077ccde46e5199e5a81e6b2464cabd11c4
+INFO:__main__:Saved Inflow: BTC (2636580.0 USD) -> Binance
+INFO:__main__:Saved Inflow: BTC (3557273.75181948 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3561535.20773618 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (4080977.60294394 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2963117.75071928 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (4081778.00623288 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3559794.5745323 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=44d1236bad8f788aa8f14427bba21c4d40c48ddbfac5666e47a1ed8826c9c6c2
+INFO:__main__:Saved Inflow: BTC (4360024.46 USD) -> Binance
+INFO:__main__:Saved Inflow: BTC (1054631.16684072 USD) -> Poloniex
+INFO:     127.0.0.1:64684 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64708 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64754 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64775 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64829 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65187 - "GET / HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_outFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=8bf7e8b4a3c573318f9601d5e1d2f3b13501020f231fb995f3316bf2c56ca736
+INFO:__main__:Saved Inflow: BTC (3532820.67581377 USD) -> Unknown Destination
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_outFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=2c065a546fb1e682b02d93942e8d45227dceba25e24630d57629d15dd7acf05f
+INFO:__main__: -> Processing Item 1/1: Tx=1023a562b6cf3914c1c5fb14e328467d57b115047e8908b633ef9bac4a07afb0
+INFO:__main__:Saved Inflow: BTC (2089899.16567 USD) -> Wintermute
+INFO:__main__:Saved Inflow: BTC (8459956.71600591 USD) -> Coinbase
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=ded32b9a44c4a991b112a5de48d574580f876de8227dca23e41fa6f7720ee4b6
+INFO:__main__:Saved Inflow: BTC (1056519.07284395 USD) -> Gate
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_outFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=42b7cbfa7d4e15ecf376f0fb4f4fba4f05d8da0259f34a8d1b1abb077e23825e
+INFO:__main__:Saved Inflow: BTC (1630428.51034438 USD) -> Unknown Destination
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_outFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=c47c45d9e116826eaaac2cd0df93da957b4e9305a020ad363a99100c7227f9c9
+INFO:__main__: -> Processing Item 1/1: Tx=3e600eb6cb2e9d13344f1e927d13e717ff5c796f9409f56588818c9194940132
+INFO:__main__: -> Processing Item 1/1: Tx=b47c71a44891cb9877cd017c47e9ec802c2fdd519d34a6b70e6bf8bd7e07f01b
+INFO:__main__:Saved Inflow: BTC (3532819.46929063 USD) -> Coinbase
+INFO:__main__:Saved Inflow: BTC (2107458.028852 USD) -> Unknown Destination
+INFO:__main__:Saved Inflow: BTC (8157672.29226521 USD) -> Coinbase
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_outFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_outFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=ff8461b05f09b639e108048b59a80b8cc41382e46d72773fb5b7a5c6cd93313d
+INFO:__main__: -> Processing Item 1/1: Tx=42b7cbfa7d4e15ecf376f0fb4f4fba4f05d8da0259f34a8d1b1abb077e23825e
+INFO:__main__: -> Processing Item 1/1: Tx=3e600eb6cb2e9d13344f1e927d13e717ff5c796f9409f56588818c9194940132
+INFO:__main__: -> Processing Item 1/1: Tx=dd2c15dfaf2c8fb0403eb51b2421dfa5b152a1ea72d5496250978efadeb0bebb
+INFO:__main__:Saved Inflow: BTC (3532820.67581377 USD) -> Coinbase
+INFO:__main__:Saved Inflow: BTC (1580596.682835 USD) -> Unknown Destination
+INFO:__main__:Saved Inflow: BTC (8536902.93122471 USD) -> MEXC
+INFO:__main__:Saved Inflow: BTC (4653983.0 USD) -> Binance Deposit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=69f3d7c04947d93f7adb736a089bb45b6063f19f353f1d1d4917afc01b8cd675
+INFO:__main__:Saved Inflow: BTC (8455261.13693521 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_outFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=2c065a546fb1e682b02d93942e8d45227dceba25e24630d57629d15dd7acf05f
+INFO:__main__:Saved Inflow: BTC (2089899.58365036 USD) -> Wintermute
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=f1022c5410aa5948e88ed9fce2ba5b944a4c249ea51560444250b87905133161
+INFO:__main__: -> Processing Item 1/1: Tx=d10675cfa13584cb96d8b48ce18c4cd653a058cd3a672466b91cd55202e8219f
+INFO:__main__:Saved Inflow: BTC (2958540.21606306 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2425467.00579738 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=7a91dacb2ab508f150ea7c3f4350f68e4701f27b4ba64c1dd56dda3df86ea7d5
+INFO:__main__: -> Processing Item 1/1: Tx=5704defb84667ff631b070186ffbed6d0b24e7f30954cb1ae9dd5339edb1dd6b
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=9f829dc33dc6665ea8795175215dc519b6d5d1369d2bc704968916dc761ac5f2
+INFO:__main__: -> Processing Item 1/1: Tx=eda4891ba9019cbb29a13d8ab897faf982db34cc0b8ec17d89dcb4b7f7ff37d8
+INFO:__main__:Saved Inflow: BTC (2433892.51105398 USD) -> Bybit
+INFO:__main__: -> Processing Item 1/1: Tx=7c27779cec655c9de0199007417c9929fa2071f9b16854e5d1ce7c53599c5673
+INFO:__main__: -> Processing Item 1/1: Tx=4c89d8b96c56bb7f99b178abc3446dc20f69aaf81ed209107caee77a3f3ac8d1
+INFO:__main__:Saved Inflow: BTC (2955215.76176922 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2435589.8478009 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2954410.93650876 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3546169.73784564 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3541959.79398534 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow-1-to-5
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=05cc543b137b5fd3f86b996ab89bd92e489dd08300b1f745c8e2bb1bdfb8024c
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (3475847.76678 USD) -> Binance
+INFO:__main__: -> Processing Item 1/1: Tx=a15de4d883f2179dcc850c8c8a329a4581bf3fbf2828729df6c34afdd140ce9f
+INFO:__main__: -> Processing Item 1/1: Tx=46a060e8162cad151299beb593beb6fd65ea757d2223ae648f29bcc207b103d7
+INFO:__main__: -> Processing Item 1/1: Tx=39770bedd507253020ff7406fb505cc1f9e9bdd50405df22cdada34dee8a0cd2
+INFO:__main__: -> Processing Item 1/1: Tx=051e5dcf5cc35944b53e18e5d6b6169a5ad7b4e8e145ad95d0ac06b9b1b871ef
+INFO:__main__:Saved Inflow: BTC (3541115.90929488 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2953613.9231343 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2424649.89217692 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2426338.53929784 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=99ddc0d73a6892fd7ea7c5fcba5634d5edf456f677b8b11c18b3017f40a3391b
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC-inFlow-5-10
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (1019493.69339 USD) -> Binance
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=557988f5b3ae6f55e13cb755325bae9b9e6cf327d9921bd2172c366681feb539
+INFO:__main__: -> Processing Item 1/1: Tx=4101cc1457eb9f5d4bc90bfe237a0fcb21b0552a127ac6656286943a753bcf56
+INFO:__main__: -> Processing Item 1/1: Tx=72dee46690462f656cd686e135cd7c405df8d965fb8566d7af7bf8ba55751820
+INFO:__main__: -> Processing Item 1/1: Tx=05cc543b137b5fd3f86b996ab89bd92e489dd08300b1f745c8e2bb1bdfb8024c
+INFO:__main__: -> Processing Item 1/1: Tx=63ed2e5ae19dc74d201c07bcc4178c6b49d9d1253eb4b581bcdf2f5c79f573d9
+INFO:__main__: -> Processing Item 1/1: Tx=eb6e453a782361a659c625f0d6329db4476ada176abb04b1df7ad6bec3505522
+INFO:__main__: -> Processing Item 1/1: Tx=149e574211fec2b27bc9b68f15b2f63fdb349ca312b743ddf841777ecaba8564
+INFO:__main__:Saved Inflow: BTC (2427158.9883303 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2957672.8079406 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (5967368.6951502 USD) -> Binance
+INFO:__main__:Saved Inflow: BTC (3542782.0862718 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2437295.43530382 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2434731.56817444 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2951130.63253692 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=f538a58b1a54d0671c5ca36164b510e1ba3784f5bd31938a645f5794cc7cfedb
+INFO:__main__: -> Processing Item 1/1: Tx=764244d91b0860b73b199dbf0886f9d6de522643480e7fbe196b353f50eeee34
+INFO:__main__: -> Processing Item 1/1: Tx=d19d8858393b5749aad2fb882a6b17042dac44386b182b8dda403db907c2c485
+INFO:__main__: -> Processing Item 1/1: Tx=763dd7364dde45c583eab8305916f5bd9d76a24ff3b53726235bba00c6dc82ff
+INFO:__main__: -> Processing Item 1/1: Tx=6a6d1216d15dfc82dc31d952e9dec044981b982fdc44c7cefbda982fceb81c4d
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (2956854.28993614 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (8731735.64408598 USD) -> Binance Deposit
+INFO:__main__:Saved Inflow: BTC (3545340.51141318 USD) -> Bybit
+INFO:__main__: -> Processing Item 1/1: Tx=1687c36cf6d8fefcd47bd38cc9c1c8ba6e3b8769afc64ddbc0dc2be7abcd7531
+INFO:__main__: -> Processing Item 1/1: Tx=3ca318f2b31b0a45ca1b4af0b6da91700ec8f3e83f5b1e177717c14f06f0686f
+INFO:__main__: -> Processing Item 1/1: Tx=8c0d4c26c7031330d98f08c47ed287ee0733c44957ad8244c33a03668df89fea
+INFO:__main__: -> Processing Item 1/1: Tx=0c08c6dc235d81b923418e00bd8caf3a589b583a48f904574f8ff58055cd165f
+INFO:__main__:Saved Inflow: BTC (2432179.02389106 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2430549.00980214 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3544465.64250072 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2429679.14400768 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2952810.41448384 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2431340.9322846 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=15ee35213331b05bf434b1bb08fcc5c5cd5f9384dd8618c50c2c5f532d167406
+INFO:__main__: -> Processing Item 1/1: Tx=818ffdf16df8104ff0a014041c8ff2b967182225ad53535b4af6f38a7c129f72
+INFO:__main__: -> Processing Item 1/1: Tx=e2d855e1d68320c0373fb60dfaf724f32a520191f3609ad24f00270ae2375ae6
+INFO:__main__: -> Processing Item 1/1: Tx=f9bc2ba60cb77013638e045fc7a329959cbd669a7dc5abfe60d07e23b9a50c40
+INFO:__main__: -> Processing Item 1/1: Tx=11b04fd0dae0a99e7c1b259078c4ba988ec5382c02393fd73785da56bff6fcad
+INFO:__main__: -> Processing Item 1/1: Tx=f5e13f56f88cb0ecb90ecd29cd4ee4e146ab3386e64b374f6a9fca8de677cc5e
+INFO:__main__: -> Processing Item 1/1: Tx=e456f91a2fec42e4ec2039eaea673307af849c562380fcaff6c3c927445454b0
+INFO:__main__: -> Processing Item 1/1: Tx=62f1fe7cf64f2b83787af1b61cd0c32fbd8ee2447060d7bdae9204bf89bfb57c
+INFO:__main__:Saved Inflow: BTC (2951957.75239338 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3543617.36911026 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2956043.67159168 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2436421.53190536 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2427990.40911276 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2433027.47282952 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2428802.51961522 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2950321.24302846 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=f45b68b499e5af9853f2d2c043b894abfbbdb5b0069259a64c4a72c0524fa866
+INFO:__main__:Saved Inflow: BTC (3532495.827589 USD) -> Coinbase
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_outFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_outFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_outFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=f45b68b499e5af9853f2d2c043b894abfbbdb5b0069259a64c4a72c0524fa866
+INFO:__main__: -> Processing Item 1/1: Tx=772a1dfe71af8a2c42b82c7d1783c42921812e07c89282b02fc7adc2a3a8392f
+INFO:__main__: -> Processing Item 1/1: Tx=aa2c4b35e50ea5df74c983617036dd5b18acdf901581488573305b7d3a9593ba
+INFO:__main__: -> Processing Item 1/1: Tx=5ba492001db29456faa678517cefdf4291f23e477f37d0cdc6f48e0ad3e6b949
+INFO:__main__: -> Processing Item 1/1: Tx=5ba492001db29456faa678517cefdf4291f23e477f37d0cdc6f48e0ad3e6b949
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (3532497.22541276 USD) -> Coinbase
+INFO:__main__:Saved Inflow: BTC (4390212.78265712 USD) -> Block Inc. (Cash App)
+INFO:__main__: -> Processing Item 1/1: Tx=772a1dfe71af8a2c42b82c7d1783c42921812e07c89282b02fc7adc2a3a8392f
+INFO:__main__: -> Processing Item 1/1: Tx=2231adcc4af337c33c7a114f7b99f51624691a2e9914c36d658be548adb28a7d
+INFO:__main__:Saved Inflow: BTC (11853404.48371836 USD) -> Wintermute
+INFO:__main__:Saved Inflow: BTC (4437633.950203 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (4390241.71374562 USD) -> Block Inc. (Cash App)
+INFO:__main__:Saved Inflow: BTC (44776515.18565564 USD) -> Unknown Destination
+INFO:__main__:Saved Inflow: BTC (44776526.02932614 USD) -> Unknown Destination
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=908f0f54d58d4dcfee7b1aeb1079fe321e3be55ac66b1089fbab2e500f45fa04
+INFO:__main__:Saved Inflow: BTC (4985982.69599644 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_outFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=6430569b34f81672b72392c3e37a6008acd5731f83319d077ebd71bbb2f7a79a
+INFO:__main__:Saved Inflow: BTC (3105866.1571835 USD) -> Unknown Destination
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_outFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=6430569b34f81672b72392c3e37a6008acd5731f83319d077ebd71bbb2f7a79a
+INFO:__main__:Saved Inflow: BTC (13513928.79282307 USD) -> Unknown Destination
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=84ff5f4af4c2aaac2c51cfa023409894eba6046d133cce126e3c78a181d8dc10
+INFO:__main__:Saved Inflow: BTC (4073441.0651571 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=a7cbc98c0aff186125ea393556ece2e97b94a77298a7264871162a542830ae2a
+INFO:__main__: -> Processing Item 1/1: Tx=b08c99bb50a58f4a5fea4df0e1c135d5b8b0db90f4fa0424af409c9b692b5082
+INFO:__main__: -> Processing Item 1/1: Tx=337be204f611322e4252d7bda0515059eea60b40ad3cef5ffacf1339bdf15b13
+INFO:__main__: -> Processing Item 1/1: Tx=6af934e8ae5c161466504e7ea453472f970a9fca85a378fa1f6f37abdb0d9e78
+INFO:__main__: -> Processing Item 1/1: Tx=871c8fbfa90d3bcc98aa9162e9da8d7a9c37efe387f730e98af26c889025b6f0
+INFO:__main__: -> Processing Item 1/1: Tx=fede9141f4f95b7c9d19c345ac23b708736fc8e444af96d9173691b1e8bbb1df
+INFO:__main__: -> Processing Item 1/1: Tx=71a1e6a1b7de89ad1af4c2318fc702b40d8b895bacdb6baa7bec3bd87a9e32eb
+INFO:__main__: -> Processing Item 1/1: Tx=b0aadd8e1fc6417c986c102c1552d6f87955c0fd93c33867e870b6d75a47bd22
+INFO:__main__: -> Processing Item 1/1: Tx=db91d37a9a35b57f9c57d6ba08e94c5127f16910a907f7049ea35c98d9f46aed
+INFO:__main__: -> Processing Item 1/1: Tx=8b19a855c8ae061fda0549f7e0a1acba3bd82246b182d5ba88c54d3794e17649
+INFO:__main__: -> Processing Item 1/1: Tx=b0aadd8e1fc6417c986c102c1552d6f87955c0fd93c33867e870b6d75a47bd22
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (9873276.67849705 USD) -> Coinbase
+INFO:__main__: -> Processing Item 1/1: Tx=9d0175cb1fd835a74fa07591a10442623e836a395a33270b1c9828841716acdf
+INFO:__main__: -> Processing Item 1/1: Tx=c6d45bf0eec072fc522ad906d36a0e38e39505b015495b925b52b3eea0bdc190
+INFO:__main__:Saved Inflow: BTC (3540312.50402375 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3533571.53307795 USD) -> Bybit
+INFO:__main__: -> Processing Item 1/1: Tx=67f61a816cbd76d262c6fc15dbcc589d8d952b4b1fd5e0e6e0947337796a9e52
+INFO:__main__:Saved Inflow: BTC (3532978.0959928 USD) -> Coinbase
+INFO:__main__:Saved Inflow: BTC (3541956.80301645 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2422508.8856423 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3541116.6514451 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3531932.85424525 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3539477.7969824 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3536105.862562 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3532975.2367364 USD) -> Coinbase
+INFO:__main__:Saved Inflow: BTC (4074279.46042845 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2423338.67504365 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (1281067.17375 USD) -> Coinbase
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=f3e05d23a5cfc5cec3e454941b35cc0fb6e008c5a23299f5bccc148bab899fc1
+INFO:__main__: -> Processing Item 1/1: Tx=d30b71478cb3afa92177094b345786cac05a75629c024a0ff3db0763e78c3ebe
+INFO:__main__: -> Processing Item 1/1: Tx=6af934e8ae5c161466504e7ea453472f970a9fca85a378fa1f6f37abdb0d9e78
+INFO:__main__: -> Processing Item 1/1: Tx=6af934e8ae5c161466504e7ea453472f970a9fca85a378fa1f6f37abdb0d9e78
+INFO:__main__: -> Processing Item 1/1: Tx=d36dcf77a27648f658e634840ce058996717785aec615e9d5331d99d4d08300e
+INFO:__main__: -> Processing Item 1/1: Tx=2ccc3e70a88bac1e6645849bff77597937d17273ae614f15f6ea049a2f286baa
+INFO:__main__: -> Processing Item 1/1: Tx=a7cbc98c0aff186125ea393556ece2e97b94a77298a7264871162a542830ae2a
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=994101e5747b44873672aa115cd89496ac468f5e86a8d2195d83225f56bffe63
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=09327de38ea8eab9b8b17e6df108231e1d0e616c874361472f0691be41ef3aad
+INFO:__main__: -> Processing Item 1/1: Tx=205438af33d52a807226e09dfd0d6c311587111407cf4f29c6e06dd091adbab5
+INFO:__main__: -> Processing Item 1/1: Tx=d36dcf77a27648f658e634840ce058996717785aec615e9d5331d99d4d08300e
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (9873279.3349008 USD) -> Coinbase
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (3538616.65762605 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (4072650.17780075 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (7596682.4692941 USD) -> Coinbase
+INFO:__main__: -> Processing Item 1/1: Tx=6af934e8ae5c161466504e7ea453472f970a9fca85a378fa1f6f37abdb0d9e78
+INFO:__main__: -> Processing Item 1/1: Tx=49cdd650180033e7149eb2663f8bfe7ab6d5b6e7d1712240e245c2f9166810e3
+INFO:__main__: -> Processing Item 1/1: Tx=566338143721b8b40894372d7f630bbe7f4fdeca40b04dbae4e776d2c9c9c9b9
+INFO:__main__: -> Processing Item 1/1: Tx=5ac8440f177bb4972cb1d5431d0fb036a094d49595b46d30fabf40cf6d35a1e7
+INFO:__main__: -> Processing Item 1/1: Tx=1a90c7dafb622e6aeb2a7f5038fe899bc3d37c75d3c61f6608b26c6c88805fc8
+INFO:__main__: -> Processing Item 1/1: Tx=4d26bbbd98b3de8b37bb607bd7a3b5467c5a57df61d1f64235c1f4ff0d61a91f
+INFO:__main__: -> Processing Item 1/1: Tx=1fe609e4084393f062d899ccb956b0691bffadba3e1d87a9b8bbe822ed4ef731
+INFO:__main__:Saved Inflow: BTC (7596679.81289035 USD) -> Coinbase
+INFO:__main__:Saved Inflow: BTC (5093270.0 USD) -> Coinbase
+INFO:__main__:Saved Inflow: BTC (3532765.8928016 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3537797.6694697 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3535259.82738565 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2424179.002245 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (4071816.1732794 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (8238193.8639 USD) -> Coinbase
+INFO:__main__:Saved Inflow: BTC (2424989.20890135 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3536946.01413335 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3534436.5362943 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (5133423.93124925 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (4075098.7998448 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (13172250.0 USD) -> Coinbase
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=e34dfb83d9a6689dfa281a8a90c96b55b760a284b42456e44f8c7423ef974d7d
+INFO:__main__:Saved Inflow: BTC (2947456.13299998 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=ed0db083bfe52f20aa8426f3e601bef0162790cbe120f2a8704ec865175e5f46
+INFO:__main__: -> Processing Item 1/1: Tx=e42f7aae8e905655e4dfd507e4d3aa9c38c4e1d0da8da17ff2f1d6ac4956b9b0
+INFO:__main__: -> Processing Item 1/1: Tx=faffb94dc4ef8d22f351aa50f42e4434e91fd9128436c53c512470eddc9f09d0
+INFO:__main__:Saved Inflow: BTC (2941658.66654184 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2945839.86041394 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2945017.29121992 USD) -> Bybit
+INFO:     127.0.0.1:49897 - "GET / HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=141b371ae99b44ab21b83f3d0354d43365461696764eac9fbe31e35e80820797
+INFO:__main__:Saved Inflow: BTC (3512731.02206404 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_outFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=f0af155b9694cdc2612b4c647588b2797e64456895d9a7e6653c9cc46d3c79ac
+INFO:__main__: -> Processing Item 1/1: Tx=bb2ff675fc75b76829692b0ad09564e4f4ffa4e1103d8c0d03ff299c40b97ddd
+INFO:__main__: -> Processing Item 1/1: Tx=a15ab2f821aefe5a6d0124026c5f906bd8928fd3cd23a29bc9bcbea8fc64d2e9
+INFO:__main__: -> Processing Item 1/1: Tx=cbf20cc9e58394ad0b78ed68f0c0ec89f0b9637d29ca740b7ed2d4a579340305
+INFO:__main__: -> Processing Item 1/1: Tx=0c844a4fbfede5757c725b9b006655995a4a651d3077306f16f3466e03d0e075
+INFO:__main__:Saved Inflow: BTC (2399198.44310636 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3533816.44034244 USD) -> Unknown Destination
+INFO:__main__:Saved Inflow: BTC (2389979.07202152 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3533816.2435898 USD) -> Coinbase
+INFO:__main__:Saved Inflow: BTC (2927250.60750724 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=b1fb7d5438e11c45b749c4ac55e3881c16cfbcdad56a7891e8d546d6a526b58b
+INFO:__main__: -> Processing Item 1/1: Tx=94929a54d1451a9df14d692e9b6fc6bfa4c314d7fc2122609cbd0e98326e98ff
+INFO:__main__: -> Processing Item 1/1: Tx=144f202dfdbe5d756134adfaaf02c98674d3daa2f0943047f3ba11e96e30710a
+INFO:__main__: -> Processing Item 1/1: Tx=28af2cbb60329a69ee02ee7cd2332203349fe8de386a6474e555f0f3e50873a3
+INFO:__main__: -> Processing Item 1/1: Tx=9c105a780dbe8dc30e51ee63f68517a394a6e9648bbf47b094f5add1c151a680
+INFO:__main__:Saved Inflow: BTC (2917264.75401396 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3506877.36488096 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3501092.48328588 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3500293.06237744 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (4725233.34630788 USD) -> Block Inc. (Cash App)
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=85d639c10a6bd6508f15a9614ca7e1fb7957c4783b5bdcfeae2c5b5fd166e8dc
+INFO:__main__: -> Processing Item 1/1: Tx=cd775a1bc33bf792e4650dec006c6c6d911b31908a048f772564131c5ef17899
+INFO:__main__: -> Processing Item 1/1: Tx=970bb91b5398c5058157dd969d1be04bb758ed63d43ca8cff79d367cadee840c
+INFO:__main__: -> Processing Item 1/1: Tx=4890d53298e06b7701f6cf2ecc9ddda48b26224e3947cd326c8294c21110f1de
+INFO:__main__: -> Processing Item 1/1: Tx=4af04724ef1b1949b42d34ced19373003799297379f89e53f70cabf06b0844d4
+INFO:__main__: -> Processing Item 1/1: Tx=ffd6c4a0bb80018930594e9f5d280b37c29cd7d58c48855c83e5f95351f85cb3
+INFO:__main__: -> Processing Item 1/1: Tx=8e6d110f3ba8cbbed1e747d44ca1e326a7e88dcb8a0af955679c6579b5bded52
+INFO:__main__:Saved Inflow: BTC (2390812.66113396 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3504388.80674764 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (4065371.7486074 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3505186.03175608 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2398336.21945792 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (1508793.07696208 USD) -> MEXC
+INFO:__main__:Saved Inflow: BTC (3501911.49162232 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=a9c4d63b1faaba1dbb40b80e34284d799eec411be074299bbb5c74703c2bbff2
+INFO:__main__: -> Processing Item 1/1: Tx=a3dfdbfc1281fd5524d08613d7f9abbb072f467373c213be9c17f054a231ef76
+INFO:__main__: -> Processing Item 1/1: Tx=71e36aacedef21841ae5c7d16c945f92842f727bd0e049a175d7692c1e3027b3
+INFO:__main__: -> Processing Item 1/1: Tx=1f6965642d3ea453261fe74a7c39a7e285c1dcc299f4a9afc476d2ba7cb9efd6
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (3506005.56710852 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2402510.92839212 USD) -> Bybit
+INFO:__main__: -> Processing Item 1/1: Tx=8f543c4349165825c0dc76de8099756f0fed09518f9194b33f4532a04137be58
+INFO:__main__: -> Processing Item 1/1: Tx=2ec4749a698e32e3961a6de6c6e17dec3a8196bae141606dbdbe3fe44ad44e7a
+INFO:__main__: -> Processing Item 1/1: Tx=90e6ee4e0393bfa60c41f068f06bb7ae06b6d2c030b69d6ab29d6e5acd76f0b5
+INFO:__main__:Saved Inflow: BTC (2400003.1341748 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2914738.68990864 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2923906.23775348 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2925523.34945836 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2923049.98695304 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=b7a3855e48fcbe4d2333ba286ce5aedf79d9badbc511a88819380d433b2ee98f
+INFO:__main__: -> Processing Item 1/1: Tx=d88aa18e7ce6bbc0bb7fcfe60d243cfdb4156be4280c442f875d15520b7e539f
+INFO:__main__: -> Processing Item 1/1: Tx=c028d239f6ba4a8792dd5cbd1c074a985da3229ab770c0a96325a4d152f5c906
+INFO:__main__: -> Processing Item 1/1: Tx=d17f9970dd3b985d94c6c576d441109626ff7002571c55535dbfca33d3e64438
+INFO:__main__: -> Processing Item 1/1: Tx=0e5ebb7ae67d5bd9dac295fd1e812095d1a0de4514a29379c2b1d419a346a9c7
+INFO:__main__: -> Processing Item 1/1: Tx=2200d0b1dd5db3cee170cf36752e8fea46489149ae0e6cf86bf39fa38a54b015
+INFO:__main__: -> Processing Item 1/1: Tx=ac6b409368fccfc6f7f43c31805d138f12add240b885150b8d1b403ac59668ec
+INFO:__main__:Saved Inflow: BTC (3503529.4816872 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2913083.45737976 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3511030.72966716 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2912240.46981532 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2922226.8503246 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3499459.648937 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=9b1c6cfffe803af8a3cec2be0a817ac1b00d7a56576395c5cff82e772322b25b
+INFO:__main__: -> Processing Item 1/1: Tx=ef6d5b2a3e1e186cd9edda69d575f29503094833f4f292d75fca134b7149c5eb
+INFO:__main__: -> Processing Item 1/1: Tx=0c844a4fbfede5757c725b9b006655995a4a651d3077306f16f3466e03d0e075
+INFO:__main__: -> Processing Item 1/1: Tx=b53c6785746bf1c723a66e9cb225a46ecc15dcc8fc9f2572c1a47585f2046c9b
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (2920600.16449572 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (2403325.89627256 USD) -> Bybit
+INFO:__main__: -> Processing Item 1/1: Tx=4b94e75c4514987cd7477bcecce80b24527db20484db29e15c86eecfbd6bae32
+INFO:__main__: -> Processing Item 1/1: Tx=6893968d37fdfe5bbc2a9153bc791a095dce38d15d42856765333bb2a039fa14
+INFO:__main__: -> Processing Item 1/1: Tx=7499960c33b1b7e358d52818dad9f42827c67100fa9f4508a720bf7f3e15471f
+INFO:__main__:Saved Inflow: BTC (2397498.15070948 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2919740.57592728 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2913881.2094042 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3508532.24606584 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3533816.44034244 USD) -> Coinbase
+INFO:__main__:Saved Inflow: BTC (4067815.07120072 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow-10-1000
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=814ebf552a42fa4c96a50d06d1c5198f601743f181c946f0a657a7735338ccc2
+INFO:__main__: -> Processing Item 1/1: Tx=c2ad1cc92b8d4a46cf62cedc8d1d84551da4b583efb129dadf67004418ceecf6
+INFO:__main__: -> Processing Item 1/1: Tx=7c815cd7d1229befae41358194cdeb2e38456ff3067c2add50f5cc51c0930e0b
+INFO:__main__:Saved Inflow: BTC (11857859.48352432 USD) -> Binance
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_outFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (2911448.25145888 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (3511894.0951836 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=cd775a1bc33bf792e4650dec006c6c6d911b31908a048f772564131c5ef17899
+INFO:__main__: -> Processing Item 1/1: Tx=f1a8a95815dfcd4488728260e9209e3e0dcafd0759b4546791bf98a884477856
+INFO:__main__: -> Processing Item 1/1: Tx=989e26260d319a7cc8c932fcaf0ff82b98fd527f62135860567b241253adab8e
+INFO:__main__: -> Processing Item 1/1: Tx=5003ecd5ddeb0e2e7f7c5d4b921e38695efc3f7455d7090cb97eb8c778367d4c
+INFO:__main__: -> Processing Item 1/1: Tx=ea10b002edfa889358c1248588716b35ffdeb4c3f7460ec8e2ddf9eeefe7d920
+INFO:__main__:Saved Inflow: BTC (2915593.18398908 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (1483900.1235534 USD) -> Unknown Destination
+INFO:__main__:Saved Inflow: BTC (2918880.19683484 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3496978.46902768 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2392445.23197484 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=174177fc8e96d4e8cc2590fd3ddaad0e9cfcf11a212c4c2e6de19edf48a188d5
+INFO:__main__: -> Processing Item 1/1: Tx=5fb850dd9af531707598d475f3ab42835e1bd53c04e83e09d8f34b02b7e100d6
+INFO:__main__: -> Processing Item 1/1: Tx=431d1f996514ad7c0b32dbe70948ce82be3140cb293aeae289ba2aa8f6d1e225
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (2926393.4783468 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (2921405.20690816 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (4064574.08441896 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=efbb9b471810dd3331925eff1dc5cdecd6e6885b61e1b0aad8997e0d827662de
+INFO:__main__: -> Processing Item 1/1: Tx=a2e76e941a6760c8757651ee15ff01924fa7b2bd5dbdb26144ce74c74cfda4fb
+INFO:__main__: -> Processing Item 1/1: Tx=195fb6f0c2f646f827046c4059c94f6588c8b24157d4e030ea59e271ac24ce0b
+INFO:__main__: -> Processing Item 1/1: Tx=1f9422762285d3055c2d751c5caaad16035924acea438124548a76b98377a987
+INFO:__main__: -> Processing Item 1/1: Tx=f0003650cc3b16f17db13072ffc80dfa1092450fb1e9e0e2d5ff71d8488f9a24
+INFO:__main__: -> Processing Item 1/1: Tx=7a14594f76d09ec023ba1117ea46a177be1fa20f9bd9b8c6b98db798c3b162a8
+INFO:__main__: -> Processing Item 1/1: Tx=d7fc64fd1aa5b9a39bebb55ff217b28328376830cf8fa2c4d3776c3bc43d1c95
+INFO:__main__:Saved Inflow: BTC (2405822.44748188 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (4067002.65056428 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2394968.66100016 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3498613.41144056 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2394149.38915572 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2404973.39923344 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2400812.04137124 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=619736bff0c1405f6faf2e99cf5eee1dd792801e1862961971c8ebe3756cc2f8
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (2916422.11779352 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=63da061945bc0977fa242267a46965dc7b5128f1a8a14f97bedf071617181adc
+INFO:__main__: -> Processing Item 1/1: Tx=da4509a2ec7a55a03c98a9d4dfe677c0473ca64d3e4fb169ccc81f9e0d84f312
+INFO:__main__: -> Processing Item 1/1: Tx=918a1d02ee449e153a22a4f1a147e6f08befc314cc6fb0b8d328fabd24cdc60e
+INFO:__main__: -> Processing Item 1/1: Tx=ebc7f2a23e683bfdbe0e60ed4d9d7cfa32ec717eef8cc3098c18fd17bb54e500
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (3509323.49822628 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2396695.04068904 USD) -> Bybit
+INFO:__main__: -> Processing Item 1/1: Tx=5643934777b6f23705f5ba3c4aa25ebf5b61851353d61a6a38421a04dbead258
+INFO:__main__:Saved Inflow: BTC (2401641.67786368 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3497792.20720412 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2924702.23305792 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow-1-to-5
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=3c76e11209c6e94c8e49bd838af0fe1f0b5d433cab14b9b23895d34f8f5173de
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (1534929.04415984 USD) -> Binance
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=c27d5d97de46425f6b89e40d7ccd4e9bafaea3237f773c56881e1501ba0225b0
+INFO:__main__: -> Processing Item 1/1: Tx=b559a214ea0b6ede7b3e157f07544baab6670512bdecac65f1714f49cf9e43b7
+INFO:__main__: -> Processing Item 1/1: Tx=5a453d54d1da65fa4f02e51cb973d816350bc157803a02685d20e5f6b99ab2e6
+INFO:__main__: -> Processing Item 1/1: Tx=289a59b4ad105ff2d340ca7d844d47377c450ea8721255a74c825adfca4ca498
+INFO:__main__:Saved Inflow: BTC (2391614.2779424 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3502738.58087076 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (2395846.0802766 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3507689.6976814 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow-10-1000
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=814ebf552a42fa4c96a50d06d1c5198f601743f181c946f0a657a7735338ccc2
+INFO:__main__: -> Processing Item 1/1: Tx=30cfdd6e388f0be63d9dbbed30f5b53ffcb1dc933a3f1f9f37b2d377d0d8226a
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (11857859.14974752 USD) -> Binance
+INFO:__main__:Saved Inflow: BTC (3513572.95559648 USD) -> Bybit
+INFO:__main__: -> Processing Item 1/1: Tx=a008942236978a64d65628537098c6fb5704a4e731e1d8261095dd6c10f5c64a
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (4066194.79739984 USD) -> Bybit
+INFO:__main__: -> Processing Item 1/1: Tx=cbd4a7a9fee1964fa2ca9c86bdfd4bd10ec08d710dfe9a03642c3de9a74767ac
+INFO:__main__: -> Processing Item 1/1: Tx=302551455ce264c7957c6cec1fb9ce1eed0fba46c8c95c2ffdaf9e58ebadd267
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:Saved Inflow: BTC (2393287.16550728 USD) -> Bybit
+INFO:__main__: -> Processing Item 1/1: Tx=2ca75328c03357f303999cac1dfeb6ad85bd63886f8eae5bff92a072933f372d
+INFO:__main__:Saved Inflow: BTC (2918057.1480424 USD) -> Bybit
+INFO:__main__:Saved Inflow: BTC (3510196.52570272 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=af588e583687d24a102009fb68b38299320b1c025b57369262cac957c75ca7fc
+INFO:__main__:Saved Inflow: BTC (2404123.823969 USD) -> Bybit
+INFO:     127.0.0.1:50239 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50266 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50287 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50354 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50421 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50463 - "GET / HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=4b340027db3eb12a8161d24d4feb37392640fb99e756df8aa6ffbf0968b20a5f
+INFO:__main__:Saved Inflow: BTC (6023669.31524934 USD) -> Bybit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_outFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=2e01c2eecf55abe34d9ffa557ab2944243ad81452d659fcedc391fafeb3849a7
+INFO:__main__: -> Processing Item 1/1: Tx=2e01c2eecf55abe34d9ffa557ab2944243ad81452d659fcedc391fafeb3849a7
+INFO:__main__: -> Processing Item 1/1: Tx=7035fed9dc90fb86b5a00b1584adf9349ff96d04148281bc3b304262836ad0e0
+INFO:__main__:Saved Inflow: BTC (3533292.84054322 USD) -> Coinbase
+INFO:__main__:Saved Inflow: BTC (3533292.84054322 USD) -> Unknown Destination
+INFO:__main__:Saved Inflow: BTC (3533292.24334682 USD) -> Coinbase
+INFO:     127.0.0.1:50564 - "GET / HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=97f5a9023dfd30bcdc2f51bb9875eb91254fc903309f64838679f51cdd78fecc
+INFO:__main__:Saved Inflow: BTC (6339765.1218112 USD) -> Binance Deposit
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=81b8d38ff818dddc448a762389674018aa01406987b0046e06026a5d01406d23
+INFO:__main__:Saved Inflow: BTC (7509619.970432 USD) -> Binance Deposit
+INFO:     127.0.0.1:50642 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50733 - "GET / HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_inFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__:📥 WEBHOOK RECEIVED: BTC_outFlow
+INFO:     34.139.227.11:0 - "POST /webhook HTTP/1.1" 200 OK
+INFO:__main__: -> Processing Item 1/1: Tx=411da7cd7fb000ad72d0550829b39e28a67e38eddf79ad1c4d897d9b75ccd005
+INFO:__main__: -> Processing Item 1/1: Tx=411da7cd7fb000ad72d0550829b39e28a67e38eddf79ad1c4d897d9b75ccd005
+INFO:__main__: -> Processing Item 1/1: Tx=4c5febea70eefdab0d578623ceb68e748b5863ae1e539c6762a64a410c3d9d5d
+INFO:__main__:Saved Inflow: BTC (3530877.93815159 USD) -> Coinbase
+INFO:__main__:Saved Inflow: BTC (3530877.74156247 USD) -> Coinbase
+INFO:__main__:Saved Inflow: BTC (3530877.93815159 USD) -> Unknown Destination
+INFO:     127.0.0.1:50781 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50894 - "GET / HTTP/1.1" 200 OK
